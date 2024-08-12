@@ -7,3 +7,5 @@ to check the fetch command
 
  to check the git pull command
 
+ to check the merge command
+
